@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/FCC-FrontEndCertificate-1-QuoteMachine/static/css/main.5facb584.chunk.css",
-    "main.js": "/FCC-FrontEndCertificate-1-QuoteMachine/static/js/main.3fb371fd.chunk.js",
-    "main.js.map": "/FCC-FrontEndCertificate-1-QuoteMachine/static/js/main.3fb371fd.chunk.js.map",
+    "main.js": "/FCC-FrontEndCertificate-1-QuoteMachine/static/js/main.6758bdc9.chunk.js",
+    "main.js.map": "/FCC-FrontEndCertificate-1-QuoteMachine/static/js/main.6758bdc9.chunk.js.map",
     "runtime-main.js": "/FCC-FrontEndCertificate-1-QuoteMachine/static/js/runtime-main.04963dfd.js",
     "runtime-main.js.map": "/FCC-FrontEndCertificate-1-QuoteMachine/static/js/runtime-main.04963dfd.js.map",
     "static/js/2.afc516b9.chunk.js": "/FCC-FrontEndCertificate-1-QuoteMachine/static/js/2.afc516b9.chunk.js",
     "static/js/2.afc516b9.chunk.js.map": "/FCC-FrontEndCertificate-1-QuoteMachine/static/js/2.afc516b9.chunk.js.map",
     "index.html": "/FCC-FrontEndCertificate-1-QuoteMachine/index.html",
-    "precache-manifest.7dc08acdc68edc5062d3501e518dc98b.js": "/FCC-FrontEndCertificate-1-QuoteMachine/precache-manifest.7dc08acdc68edc5062d3501e518dc98b.js",
+    "precache-manifest.6fdbb00fb8c1d5c071ce084c1732ec86.js": "/FCC-FrontEndCertificate-1-QuoteMachine/precache-manifest.6fdbb00fb8c1d5c071ce084c1732ec86.js",
     "service-worker.js": "/FCC-FrontEndCertificate-1-QuoteMachine/service-worker.js",
-    "static/css/main.5facb584.chunk.css.map": "/FCC-FrontEndCertificate-1-QuoteMachine/static/css/main.5facb584.chunk.css.map",
     "static/js/2.afc516b9.chunk.js.LICENSE.txt": "/FCC-FrontEndCertificate-1-QuoteMachine/static/js/2.afc516b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.04963dfd.js",
     "static/js/2.afc516b9.chunk.js",
-    "static/css/main.5facb584.chunk.css",
-    "static/js/main.3fb371fd.chunk.js"
+    "static/js/main.6758bdc9.chunk.js"
   ]
 }
